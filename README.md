@@ -57,7 +57,6 @@ A modern hydration tracking web app designed to be **free, registration-free, an
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-46c5ff?style=for-the-badge&logo=javascript&logoColor=0b1220" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-46c5ff?style=for-the-badge&logo=typescript&logoColor=0b1220" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-46c5ff?style=for-the-badge&logo=html5&logoColor=0b1220" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-46c5ff?style=for-the-badge&logo=css3&logoColor=0b1220" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-46c5ff?style=for-the-badge&logo=react&logoColor=0b1220" alt="React" />
