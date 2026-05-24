@@ -65,25 +65,25 @@ A modern hydration tracking app designed to be **free, registration-free, and ge
 
 ## Selected Projects
 
-A selection of public projects showcasing my work across modern frontend development, polished UX, and product-focused execution.
-
 ### NutraFlux
-Professional, private, and local-first calorie tracker built for speed, privacy, and a modern web experience.
+Professional, private, and local-first calorie tracker.
 
-<p>
-  <a href="https://github.com/johnnylemonny/NutraFlux">🔗 Repository</a>
-</p>
+🔗 https://github.com/johnnylemonny/NutraFlux
 
 ### ExoVault
-A premium, high-performance explorer for the NASA Exoplanet Archive, built for elegant discovery and scientific storytelling.
+High-performance NASA exoplanet explorer.
 
-<p>
-  <a href="https://github.com/johnnylemonny/ExoVault">🔗 Repository</a>
-</p>
+🔗 https://github.com/johnnylemonny/ExoVault
+
+---
 
 <p align="center">
-  <a href="https://github.com/johnnylemonny/NutraFlux">NutraFlux</a> ·
-  <a href="https://github.com/johnnylemonny/ExoVault">ExoVault</a>
+  <a href="https://github.com/johnnylemonny/NutraFlux">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=johnnylemonny&repo=NutraFlux&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/johnnylemonny/ExoVault">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=johnnylemonny&repo=ExoVault&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 ---
