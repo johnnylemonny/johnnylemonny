@@ -77,17 +77,6 @@ High-performance NASA exoplanet explorer.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/johnnylemonny/NutraFlux">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=johnnylemonny&repo=NutraFlux&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/johnnylemonny/ExoVault">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=johnnylemonny&repo=ExoVault&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## Tech Stack
 
 ### Frontend
