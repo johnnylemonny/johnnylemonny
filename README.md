@@ -65,15 +65,41 @@ A modern hydration tracking app designed to be **free, registration-free, and ge
 
 ## Selected Projects
 
-### NutraFlux
-Professional, private, and local-first calorie tracker.
+A selection of public projects showcasing my work across modern frontend development, mobile apps, polished UX, and product-focused execution.
 
-🔗 https://github.com/johnnylemonny/NutraFlux
+### NutraFlux
+
+Professional, private, and local-first calorie tracker built for speed, privacy, and a modern web experience.
+
+- **Stack:** React, TypeScript, Vite, Tailwind CSS
+- **Focus:** local-first data, privacy, performance, polished UI
+
+🔗 [Repository](https://github.com/johnnylemonny/NutraFlux)
+
+---
 
 ### ExoVault
-High-performance NASA exoplanet explorer.
 
-🔗 https://github.com/johnnylemonny/ExoVault
+A premium, high-performance explorer for the NASA Exoplanet Archive, built for elegant discovery and scientific storytelling.
+
+- **Stack:** Astro, React, TypeScript, Tailwind CSS
+- **Focus:** data exploration, static performance, visual storytelling
+
+🔗 [Repository](https://github.com/johnnylemonny/ExoVault)
+
+---
+
+### Cabal Android
+
+A native, privacy-first Android P2P chat client for the Cable protocol.
+
+Built as a high-performance Android rewrite focused on decentralized communication, serverless history sync, and local-first data.
+
+- **Stack:** Kotlin, Jetpack Compose, Material 3
+- **Focus:** native Android, P2P networking, privacy-first UX, local-first architecture
+- **Highlights:** no central servers, no telemetry, direct peer-to-peer communication
+
+🔗 [Repository](https://github.com/johnnylemonny/cabal-android)
 
 ---
 
