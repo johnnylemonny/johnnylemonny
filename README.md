@@ -5,12 +5,12 @@
 <h1 align="center">Hi, I'm Johnny 👋</h1>
 
 <p align="center">
-  <strong>Frontend & Mobile Developer</strong><br />
+  <strong>Full-stack, Frontend & Mobile Developer</strong><br />
   Building polished, user-focused web & mobile products.
 </p>
 
 <p align="center">
-  I create modern digital experiences with clean UI, smooth UX, and practical product thinking.
+  I create optimized, modern digital experiences with clean UI, smooth UX, and practical product thinking.
 </p>
 
 <p align="center">
@@ -35,12 +35,12 @@
 
 I'm a developer focused on building modern products that feel **fast, intuitive, and refined**.
 
-My core strength is frontend development, complemented by mobile and cross-platform work using **React Native** and **Kotlin**. I care about software that is not only technically solid, but also **useful, lightweight, and pleasant to use from the very first interaction**.
+My core strength is frontend development, complemented by mobile and cross-platform work. I care about software that is not only technically solid, but also **useful, lightweight, and pleasant to use from the very first interaction**.
 
 - ⚡ Crafting fast, clean, and visually polished interfaces
 - 🎯 Strong focus on product thinking over pure technical demos
-- 📱 Building mobile apps with **React Native** and **Kotlin**
-- 🌌 Exploring interactive experiences with **Three.js**
+- 📱 Building mobile apps with **Kotlin**
+- 🌌 Exploring interactive experiences
 - 🚀 Growing an open-source portfolio of production-quality projects
 
 ---
@@ -135,7 +135,7 @@ Built as a high-performance Android rewrite focused on decentralized communicati
 
 ## Current Focus
 
-- building and refining public web projects
+- building and refining public projects
 - improving mobile development workflows
 - shipping more polished, production-ready software
 - expanding open-source presence
