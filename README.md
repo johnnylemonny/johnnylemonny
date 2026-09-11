@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.webp" alt="Johnny Lemonny banner" />
+  <img src="./assets/banner_animated.gif" alt="Johnny Lemonny banner" />
 </p>
 
 <h1 align="center">Hi, I'm Johnny 👋</h1>
