@@ -78,17 +78,6 @@ Professional, private, and local-first calorie tracker built for speed, privacy,
 
 ---
 
-### ExoVault
-
-A premium, high-performance explorer for the NASA Exoplanet Archive, built for elegant discovery and scientific storytelling.
-
-- **Stack:** Astro, React, TypeScript, Tailwind CSS
-- **Focus:** data exploration, static performance, visual storytelling
-
-🔗 [Repository](https://github.com/johnnylemonny/ExoVault)
-
----
-
 ### Cabal Android
 
 A native, privacy-first Android P2P chat client for the Cable protocol.
