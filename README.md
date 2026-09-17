@@ -14,8 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="https://drink-daily.vercel.app/en">🌐 Live Project</a>
-  ·
   <a href="https://github.com/johnnylemonny">💻 Open Source</a>
   ·
   <a href="https://dev.to/johnnylemonny">✍️ DEV.to</a>
@@ -128,14 +126,6 @@ Built as a high-performance Android rewrite focused on decentralized communicati
 - shipping more polished, production-ready software
 - expanding open-source presence
 - exploring richer UI and interaction patterns
-
----
-
-## Elsewhere
-
-- GitHub → [github.com/johnnylemonny](https://github.com/johnnylemonny)
-- DEV.to → [dev.to/johnnylemonny](https://dev.to/johnnylemonny)
-- Buy Me a Coffee → [buymeacoffee.com/zdfpbnc5iv](https://buymeacoffee.com/zdfpbnc5iv)
 
 ---
 
