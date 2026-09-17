@@ -14,8 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="https://drink-daily.vercel.app/en">🌐 Live Project</a>
-  ·
   <a href="https://github.com/johnnylemonny">💻 Open Source</a>
   ·
   <a href="https://dev.to/johnnylemonny">✍️ DEV.to</a>
@@ -61,22 +59,22 @@ A modern hydration tracking app designed to be **free, registration-free, and ge
   <a href="https://drink-daily.vercel.app/en"><strong>→ Visit Drink Daily</strong></a>
 </p>
 
-<br />
+---
 
 ### 🥗 NutraFlux
 
-A professional, private, and local-first calorie tracker built for speed, privacy, and a modern web experience.
+Professional, private, and local-first calorie tracker built for speed, privacy, and a modern web experience.
 
 **Highlights**
-- local-first data architecture & complete privacy
-- lightning-fast, frictionless nutrition tracking
-- clean, polished interface designed for everyday use
-- modern web tech stack (React, TypeScript, Vite, Tailwind CSS)
+- local-first data architecture and complete privacy
+- frictionless nutrition tracking with **no account required**
+- modern, responsive interface built with React, TypeScript & Tailwind CSS
+- optimized for speed, performance, and everyday utility
 
 <p>
   <a href="https://nutraflux.vercel.app/"><strong>→ Visit NutraFlux</strong></a>
   ·
-  <a href="https://github.com/johnnylemonny/NutraFlux">Repository</a>
+  <a href="https://github.com/johnnylemonny/NutraFlux"><strong>GitHub</strong></a>
 </p>
 
 ---
@@ -84,17 +82,6 @@ A professional, private, and local-first calorie tracker built for speed, privac
 ## Selected Projects
 
 A selection of public projects showcasing my work across modern frontend development, mobile apps, polished UX, and product-focused execution.
-
-### NutraFlux
-
-Professional, private, and local-first calorie tracker built for speed, privacy, and a modern web experience.
-
-- **Stack:** React, TypeScript, Vite, Tailwind CSS
-- **Focus:** local-first data, privacy, performance, polished UI
-
-🔗 [Repository](https://github.com/johnnylemonny/NutraFlux)
-
----
 
 ### Cabal Android
 
@@ -146,14 +133,6 @@ Built as a high-performance Android rewrite focused on decentralized communicati
 - shipping more polished, production-ready software
 - expanding open-source presence
 - exploring richer UI and interaction patterns
-
----
-
-## Elsewhere
-
-- GitHub → [github.com/johnnylemonny](https://github.com/johnnylemonny)
-- DEV.to → [dev.to/johnnylemonny](https://dev.to/johnnylemonny)
-- Buy Me a Coffee → [buymeacoffee.com/zdfpbnc5iv](https://buymeacoffee.com/zdfpbnc5iv)
 
 ---
 
