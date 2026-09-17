@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <a href="https://drink-daily.vercel.app/en">🥤 Drink Daily</a>
+  ·
+  <a href="https://nutraflux.vercel.app/">🥗 NutraFlux</a>
+  ·
   <a href="https://github.com/johnnylemonny">💻 Open Source</a>
   ·
   <a href="https://dev.to/johnnylemonny">✍️ DEV.to</a>
@@ -72,7 +76,7 @@ Professional, private, and local-first calorie tracker built for speed, privacy,
 - **Stack:** React, TypeScript, Vite, Tailwind CSS
 - **Focus:** local-first data, privacy, performance, polished UI
 
-🔗 [Repository](https://github.com/johnnylemonny/NutraFlux)
+🔗 [Repository](https://github.com/johnnylemonny/NutraFlux) · 🌐 [Live Demo](https://nutraflux.vercel.app/)
 
 ---
 
@@ -126,6 +130,14 @@ Built as a high-performance Android rewrite focused on decentralized communicati
 - shipping more polished, production-ready software
 - expanding open-source presence
 - exploring richer UI and interaction patterns
+
+---
+
+## Elsewhere
+
+- GitHub → [github.com/johnnylemonny](https://github.com/johnnylemonny)
+- DEV.to → [dev.to/johnnylemonny](https://dev.to/johnnylemonny)
+- Buy Me a Coffee → [buymeacoffee.com/zdfpbnc5iv](https://buymeacoffee.com/zdfpbnc5iv)
 
 ---
 
