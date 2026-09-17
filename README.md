@@ -14,9 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drink-daily.vercel.app/en">🥤 Drink Daily</a>
-  ·
-  <a href="https://nutraflux.vercel.app/">🥗 NutraFlux</a>
+  <a href="https://drink-daily.vercel.app/en">🌐 Live Project</a>
   ·
   <a href="https://github.com/johnnylemonny">💻 Open Source</a>
   ·
@@ -47,7 +45,7 @@ My core strength is frontend development, complemented by mobile and cross-platf
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🥤 Drink Daily
 
@@ -63,6 +61,24 @@ A modern hydration tracking app designed to be **free, registration-free, and ge
   <a href="https://drink-daily.vercel.app/en"><strong>→ Visit Drink Daily</strong></a>
 </p>
 
+<br />
+
+### 🥗 NutraFlux
+
+A professional, private, and local-first calorie tracker built for speed, privacy, and a modern web experience.
+
+**Highlights**
+- local-first data architecture & complete privacy
+- lightning-fast, frictionless nutrition tracking
+- clean, polished interface designed for everyday use
+- modern web tech stack (React, TypeScript, Vite, Tailwind CSS)
+
+<p>
+  <a href="https://nutraflux.vercel.app/"><strong>→ Visit NutraFlux</strong></a>
+  ·
+  <a href="https://github.com/johnnylemonny/NutraFlux">Repository</a>
+</p>
+
 ---
 
 ## Selected Projects
@@ -76,7 +92,7 @@ Professional, private, and local-first calorie tracker built for speed, privacy,
 - **Stack:** React, TypeScript, Vite, Tailwind CSS
 - **Focus:** local-first data, privacy, performance, polished UI
 
-🔗 [Repository](https://github.com/johnnylemonny/NutraFlux) · 🌐 [Live Demo](https://nutraflux.vercel.app/)
+🔗 [Repository](https://github.com/johnnylemonny/NutraFlux)
 
 ---
 
